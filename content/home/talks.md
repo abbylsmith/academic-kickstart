@@ -4,10 +4,10 @@
 
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false # Activate this widget? true/false
 weight = 70  # Order that this section will appear.
 
-title = "Teaching"
+title = "Talks"
 subtitle = ""
 
 [content]
@@ -67,10 +67,3 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
-
-I am passionate about undergraduate teaching and mentorship. I currently serve as the graduate assistant chair at the International Studies Residential College ([ISRC](https://isrcnorthwestern.wordpress.com/)), facilitating academic programming and faculty engagement with the undergraduate residents.
-
-I have served as a teaching assistant for courses both at Carnegie Mellon and Northwestern. During my masters year at CMU, I participated in Teaching Statistics seminar for graduate students/faculty, aiming to provide guidance on how to structure curricula. I served as a TA for the Experimental Design and Survey, Sampling, and Society course and mentored an undergraduate for her thesis.
-
-At Northwestern, I have been the TA for STAT 202 (Introduction to Statistics), STAT 232, and was the primary lecturer for several classes of STAT 202.
