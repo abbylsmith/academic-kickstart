@@ -50,9 +50,9 @@ social:
   link: https://github.com/abbylsmith
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+   icon_pack: ai
+  link: files/cv_Smith212.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -60,6 +60,6 @@ email: ""
 
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a third-year PhD student in Statistics at [Northwestern](https://www.statistics.northwestern.edu/). Broadly, I am interested in statistics for social good, particularly the intersection of global health, development, and human rights.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Previously, I was at Carnegie Mellon, where I worked with Professor Bill Eddy and the [MIDAS](http://www.stat.cmu.edu/research/group/526#quicktabs-lab_group_quicktabs=0) group on synthetic ecosystems for agent-based models of infectious disease.
