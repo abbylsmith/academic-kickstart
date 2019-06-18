@@ -5,9 +5,9 @@
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 90  # Order that this section will appear.
+weight = 20 # Order that this section will appear.
 
-title = "Recent Publications"
+title = "Publications and Presentations"
 subtitle = ""
 
 [content]
@@ -66,5 +66,14 @@ subtitle = ""
  css_class = ""
 +++
 
+Ventura, S. **Smith, A.**, et al. "Zika
+is Coming; and We Need Statistics". *Joint Statistical Meetings*.
+Baltimore, MD. July 2017.  
 
-test
+**Smith, A.**, Tolbert, H. "An Analysis of Existing Record Linkage
+Software for the Syrian Conflict". <span class="smallcaps">Human Rights
+Data Analysis Group</span>. May 2017.  
+
+**Smith, A**. "Zika is Coming; and We Need Statistics".
+<span class="smallcaps">CHANCE Magazine (American Statistical
+Association)</span>, Vol 29.3, September 2016, p. 17-26.  
