@@ -5,7 +5,7 @@
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 9 # Order that this section will appear.
+weight = 15 # Order that this section will appear.
 
 title = "What is she up to?"
 subtitle = ""
@@ -69,11 +69,13 @@ subtitle = ""
 +++
 
 
-<div style="overflow: auto; height:150pt; width:100%;">
+<div style="overflow: auto; height:200pt; width:100%;">
 
-* **June 2019**:  I participated in the [Summer Institute for Computational Social Science](https://compsocialscience.github.io/summer-institute/2019/chicago/) at the Chicago partner site. Worked with team of political scientists and sociologists to a new R package for qualitative coding. 
+* **June 2019**:  I participated in the [Summer Institute for Computational Social Science](https://compsocialscience.github.io/summer-institute/2019/chicago/) at the Chicago partner site. Worked with team of political scientists and sociologists to a new [R package](https://github.com/edunford/qualify/) and API for qualitative coding. 
+
 * **May 2019**: Paper with anthropologist Dr. Sera Young was accepted for publication in the American Journal of Tropical Medicine & Hygiene.
-* **March 2019**: Hosted our first ever [Women in Data Science Data Dive](https://menawhalen.github.io/WiDS_Data_Dive/), collaborative with the Illinois Red Cross.
+
+* **March 2019**: Hosted our first ever Women in Data Science ["Data Dive"](https://menawhalen.github.io/WiDS_Data_Dive/), collaborative with the Illinois Red Cross.
 
 </div>
 &nbsp;
