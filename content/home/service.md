@@ -69,8 +69,8 @@ subtitle = ""
 +++
 
 
-I am a founding member of Northwestern Women in Statistics ([WIST](https://www.statistics.northwestern.edu/research/women-in-statistics/)). In March 2019, I served as a primary organizer of the Women in Data Science ([WiDS](https://www.widsconference.org/)) regional event for Evanston.
+I am a founding member of Northwestern Women in Statistics ([WIST](https://www.statistics.northwestern.edu/research/women-in-statistics/)), and a primary organizer of the Women in Data Science ([WiDS](https://www.widsconference.org/)) regional event for Chicago.
 
-I am passionate about [open-source contributions](https://chirunconf.github.io/) in R and organize [R-Ladies Chicago](https://www.meetup.com/rladies-chicago/) meetups. 
+I am passionate about [open-source contributions](https://chirunconf.github.io/) in R and am active in the [R-Ladies Chicago](https://www.meetup.com/rladies-chicago/) community. 
 
 Additionally, I have shared my love for long-distance running as a coach for [Girls on the Run-Chicago](https://www.gotrchicago.org/). 

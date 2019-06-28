@@ -71,6 +71,4 @@ subtitle = ""
 
 I am passionate about undergraduate teaching and mentorship. I currently serve as the graduate assistant chair at the International Studies Residential College ([ISRC](https://isrcnorthwestern.wordpress.com/)), facilitating academic programming and faculty engagement with the undergraduate residents.
 
-I have served as a teaching assistant for courses both at Carnegie Mellon and Northwestern. During my masters year at CMU, I participated in Teaching Statistics seminar for graduate students/faculty, aiming to provide guidance on how to structure curricula. I served as a TA for the Experimental Design and Survey, Sampling, and Society course and mentored an undergraduate for her thesis.
-
-At Northwestern, I have been the TA for STAT 202 (Introduction to Statistics), STAT 232, and was the primary lecturer for several classes of STAT 202.
+I have served as a teaching assistant for courses both at Carnegie Mellon and Northwestern. During my masters year at CMU, I was a TA for the Experimental Design and Survey, Sampling, and Society course and mentored an undergraduate for her thesis. At Northwestern, I have been the TA for STAT 202 (Introduction to Statistics), and STAT 232 (Applied Statistics).
