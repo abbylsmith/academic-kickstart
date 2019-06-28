@@ -74,6 +74,6 @@ Baltimore, MD. July 2017.
 Software for the Syrian Conflict". <span class="smallcaps">Human Rights
 Data Analysis Group</span>. May 2017.  
 
-**Smith, A**. "Zika is Coming; and We Need Statistics".
+**Smith, A**. [*Zika is Coming; and We Need Statistics*](https://chance.amstat.org/2016/09/zika/).
 <span class="smallcaps">CHANCE Magazine (American Statistical
 Association)</span>, Vol 29.3, September 2016, p. 17-26.  

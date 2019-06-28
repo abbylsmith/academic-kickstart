@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15 # Order that this section will appear.
 
-title = "What is she up to?"
+title = "What is she up to now?"
 subtitle = ""
 
 [content]
@@ -71,7 +71,7 @@ subtitle = ""
 
 <div style="overflow: auto; height:200pt; width:100%;">
 
-* **June 2019**:  I participated in the [Summer Institute for Computational Social Science](https://compsocialscience.github.io/summer-institute/2019/chicago/) at the Chicago partner site. Worked with team of political scientists and sociologists to a new [R package](https://github.com/edunford/qualify/) and API for qualitative coding. 
+* **June 2019**:  I participated in the [Summer Institute for Computational Social Science](https://compsocialscience.github.io/summer-institute/2019/chicago/) at the Chicago partner site. Worked with team of political scientists and sociologists on a [R package](https://github.com/edunford/qualify/) and API that tracks metadata for qualitative coding.
 
 * **May 2019**: Paper with anthropologist Dr. Sera Young was accepted for publication in the American Journal of Tropical Medicine & Hygiene.
 
