@@ -71,6 +71,8 @@ subtitle = ""
 
 <div style="overflow: auto; height:200pt; width:100%;">
 
+* **July 2019**: I am a co-instructor for Intro to Statistics/Data Literacy at the Cook County Department of Corrections (CCDOC), part of the Northwestern Prison Education Program.
+
 * **June 2019**:  I participated in the [Summer Institute for Computational Social Science](https://compsocialscience.github.io/summer-institute/2019/chicago/) at the Chicago partner site. Worked with team of political scientists and sociologists on a [R package](https://github.com/edunford/qualify/) and API that tracks metadata for qualitative coding.
 
 * **May 2019**: Paper with anthropologist Dr. Sera Young was accepted for publication in the American Journal of Tropical Medicine & Hygiene.

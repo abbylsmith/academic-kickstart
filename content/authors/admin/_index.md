@@ -63,6 +63,6 @@ email: ""
 
 ---
 
-I am a third-year PhD student in Statistics at [Northwestern](https://www.statistics.northwestern.edu/). Broadly, I am interested in statistics for social good, particularly the intersection of global health, development, and human rights.
+I am a third-year PhD student in Statistics at [Northwestern](https://www.statistics.northwestern.edu/). Broadly, I am interested in statistics for social good, particularly the intersection of global health, development, and human rights.  I am advised by Bruce Spencer.
 
-Previously, I was at Carnegie Mellon, where I worked with Professor Bill Eddy and the [MIDAS](http://www.stat.cmu.edu/research/group/526#quicktabs-lab_group_quicktabs=0) group on synthetic ecosystems for agent-based models of infectious disease.
+Previously, I was at [Carnegie Mellon](http://www.stat.cmu.edu/), where I worked withthe [MIDAS](http://www.stat.cmu.edu/research/group/526#quicktabs-lab_group_quicktabs=0) group on synthetic ecosystems for agent-based models of infectious disease.
