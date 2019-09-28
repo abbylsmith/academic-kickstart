@@ -66,14 +66,12 @@ subtitle = ""
  css_class = ""
 +++
 
-Miller, J., Fitzgerald, K., **Smith, A**. “Geophagy among a Cohort of Kenyan Women with Mixed HIV Status: A Longitudinal Analysis.” *The American Journal of Tropical Medicine and Hygiene*, The American Society of Tropical Medicine and Hygiene, 22 July 2019, http://www.ajtmh.org/content/journals/10.4269/ajtmh.19-0149.
+Miller, J., Fitzgerald, K., **Smith, A**. Geophagy among a Cohort of Kenyan Women with Mixed HIV Status: A Longitudinal Analysis. *The American Journal of Tropical Medicine and Hygiene*, The American Society of Tropical Medicine and Hygiene, 22 July 2019, http://www.ajtmh.org/content/journals/10.4269/ajtmh.19-0149.
 
-Ventura, S. **Smith, A.**, et al. "Zika
-is Coming; and We Need Statistics". *Joint Statistical Meetings*.
+Ventura, S. **Smith, A.**, et al. "Zika is Coming; and We Need Statistics". *Joint Statistical Meetings*.
 Baltimore, MD. July 2017.  
 
-**Smith, A.**, Tolbert, H. "An Analysis of Existing Record Linkage
-Software for the Syrian Conflict". <span class="smallcaps">Human Rights
+**Smith, A.**, Tolbert, H. "An Analysis of Existing Record Linkage Software for the Syrian Conflict". <span class="smallcaps">Human Rights
 Data Analysis Group</span>. May 2017.  
 
 **Smith, A**. [*Zika is Coming; and We Need Statistics*](https://chance.amstat.org/2016/09/zika/).
