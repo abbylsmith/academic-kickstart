@@ -71,9 +71,12 @@ subtitle = ""
 
 <div style="overflow: auto; height:200pt; width:100%;">
 
+* **October 2019**: Presented a poster and lightening talk, *Incorporating Record Linkage Measurement Error into Descriptive Network Metrics*,  at the Women in Statistics & Data Science (WSDS) conference in Bellevue.
+
 * **July 2019**: I am a co-instructor for Intro to Statistics/Data Literacy at the Cook County Department of Corrections (CCDOC), part of the Northwestern Prison Education Program.
 
-* **June 2019**:  I participated in the [Summer Institute for Computational Social Science](https://compsocialscience.github.io/summer-institute/2019/chicago/) at the Chicago partner site. Worked with team of political scientists and sociologists on a [R package](https://github.com/edunford/qualify/) and API that tracks metadata for qualitative coding.
+* **June 2019**:  I participated in the [Summer Institute for Computational Social Science](https://compsocialscience.github.io/summer-institute/2019/chicago/) at the Chicago partner site. Worked with team of political scientists and sociologists on a [R package](https://github.com/edunford/qualify/) and API that tracks metadata for qualitative coding. 
+**Update Oct. 2019**: we recieved a seed grant to further develop *Qualify: An R Package for Transparent Data Generation*.
 
 * **May 2019**: Paper with anthropologist Dr. Sera Young was accepted for publication in the American Journal of Tropical Medicine & Hygiene.
 
