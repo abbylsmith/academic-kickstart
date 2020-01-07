@@ -71,7 +71,8 @@ subtitle = ""
 
 <div style="overflow: auto; height:200pt; width:100%;">
 
-* **October 2019**: Presented a poster and lightening talk, *Incorporating Record Linkage Measurement Error into Descriptive Network Metrics*,  at the Women in Statistics & Data Science (WSDS) conference in Bellevue.
+
+* **October 2019**: Presented a poster and lightning talk, *Incorporating Record Linkage Measurement Error into Descriptive Network Metrics*,  at the Women in Statistics & Data Science (WSDS) conference in Bellevue.
 
 * **July 2019**: I am a co-instructor for Intro to Statistics/Data Literacy at the Cook County Department of Corrections (CCDOC), part of the Northwestern Prison Education Program.
 
