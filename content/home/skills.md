@@ -36,10 +36,5 @@ weight = 110
   icon_pack = "fas"
   name = "Distance Running"
   
-    
-[[feature]]
-  icon = "coffee"
-  icon_pack = "fas"
-  name = "Coffee"
 
 +++
