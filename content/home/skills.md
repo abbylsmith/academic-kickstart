@@ -6,7 +6,7 @@ date = 2017-09-20T00:00:00
 # Activate this widget? true/false
 active = true
 
-title = "Skills"
+title = "Interests"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -34,6 +34,12 @@ weight = 110
 [[feature]]
   icon = "running"
   icon_pack = "fas"
-  name = "Running"
+  name = "Distance Running"
+  
+    
+[[feature]]
+  icon = "coffee"
+  icon_pack = "fas"
+  name = "Coffee"
 
 +++

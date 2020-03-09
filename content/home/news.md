@@ -71,6 +71,7 @@ subtitle = ""
 
 <div style="overflow: auto; height:200pt; width:100%;">
 
+* **March 2020**: Led a team of WiDS Ambassadors to host [Women in Data Science (WiDS): Chicago](widschicago.org), a 200+ person conference at Roosevelt University in downtown Chicago.
 
 * **October 2019**: Presented a poster and lightning talk, *Incorporating Record Linkage Measurement Error into Descriptive Network Metrics*,  at the Women in Statistics & Data Science (WSDS) conference in Bellevue.
 
