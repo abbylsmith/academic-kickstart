@@ -73,16 +73,19 @@ subtitle = ""
 
 * **March 2020**: Led a team of WiDS Ambassadors to host [Women in Data Science (WiDS): Chicago](https://widschicago.org), a 200+ person conference at Roosevelt University in downtown Chicago.
 
-* **October 2019**: Presented a poster and lightning talk, *Incorporating Record Linkage Measurement Error into Descriptive Network Metrics*,  at the Women in Statistics & Data Science (WSDS) conference in Bellevue.
+* **October 2019**: Presented a poster and lightning talk, *Evaluating the Impact of Entity Resolution Error on Descriptive Network Metrics*,  at the Women in Statistics & Data Science (WSDS) conference in Bellevue.
 
 * **July 2019**: I am a co-instructor for Intro to Statistics/Data Literacy at the Cook County Department of Corrections (CCDOC), part of the Northwestern Prison Education Program.
 
-* **June 2019**:  I participated in the [Summer Institute for Computational Social Science](https://compsocialscience.github.io/summer-institute/2019/chicago/) at the Chicago partner site. Worked with team of political scientists and sociologists on a [R package](https://github.com/edunford/qualify/) and API that tracks metadata for qualitative coding. 
+* **June 2019**:  I participated in the [Summer Institute for Computational Social Science](https://compsocialscience.github.io/summer-institute/2019/chicago/) at the Chicago partner site. I worked with team of political scientists and sociologists on a [R package](https://github.com/edunford/qualify/) and API that tracks metadata for qualitative coding. 
 **Update Oct. 2019**: we recieved a seed grant to further develop *Qualify: An R Package for Transparent Data Generation*.
 
 * **May 2019**: Paper with anthropologist Dr. Sera Young was accepted for publication in the American Journal of Tropical Medicine & Hygiene.
 
 * **March 2019**: Hosted our first ever Women in Data Science ["Data Dive"](https://menawhalen.github.io/WiDS_Data_Dive/), collaborative with the Illinois Red Cross.
+
+* **March 2019**: Made open source contributions to the `broom` package at the [Chicago R Unconference](https://chirunconf.github.io/).
+
 
 </div>
 

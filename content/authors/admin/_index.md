@@ -22,9 +22,8 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 interests:
 - Record Linkage
-- Missing Data
-- Networks
-- International Development
+- Network Science
+- Missing Data and Imputation
 
 education:
   courses:
@@ -65,6 +64,6 @@ email: ""
 
 ---
 
-I am a third-year PhD student in Statistics at [Northwestern](https://www.statistics.northwestern.edu/). Broadly, I am interested in statistics for social good, particularly the intersection of survey methodology with global health, development, and human rights.  I am advised by [Bruce Spencer](https://www.ipr.northwestern.edu/who-we-are/faculty-experts/spencer.html).
+I am a third-year PhD student in Statistics at [Northwestern](https://www.statistics.northwestern.edu/). Broadly, I am interested in statistics/data science for social good, particularly the intersection of survey methodology with global health and development. I am advised by [Bruce Spencer](https://www.ipr.northwestern.edu/who-we-are/faculty-experts/spencer.html).
 
 Previously, I was at [Carnegie Mellon](http://www.stat.cmu.edu/), where I worked with the [MIDAS](http://www.stat.cmu.edu/research/group/526#quicktabs-lab_group_quicktabs=0) group on synthetic ecosystems for agent-based models of infectious disease.
