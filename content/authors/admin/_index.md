@@ -21,8 +21,8 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Record Linkage
-- Network Science
+- Record Linkage/Entity Resolution
+- Networks
 - Missing Data and Imputation
 
 education:
@@ -64,6 +64,6 @@ email: ""
 
 ---
 
-I am a third-year PhD student in Statistics at [Northwestern](https://www.statistics.northwestern.edu/). Broadly, I am interested in statistics/data science for social good, particularly the intersection of survey methodology with global health and development. I am advised by [Bruce Spencer](https://www.ipr.northwestern.edu/who-we-are/faculty-experts/spencer.html).
+I am a fourth-year PhD student in Statistics at [Northwestern](https://www.statistics.northwestern.edu/). Broadly, I am interested in data science for social good applications. I am advised by [Bruce Spencer](https://www.ipr.northwestern.edu/who-we-are/faculty-experts/spencer.html) and currently research the impact of entity resolution on network inferences.
 
 Previously, I was at [Carnegie Mellon](http://www.stat.cmu.edu/), where I worked with the [MIDAS](http://www.stat.cmu.edu/research/group/526#quicktabs-lab_group_quicktabs=0) group on synthetic ecosystems for agent-based models of infectious disease.
