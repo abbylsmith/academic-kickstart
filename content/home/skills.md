@@ -27,14 +27,14 @@ weight = 110
   name = "R"
   
 [[feature]]
-  icon = "chalkboard-teacher"
+  icon = "handshake"
   icon_pack = "fas"
-  name = "Teaching and Collaboration"
+  name = "Statistical Consulting"
   
 [[feature]]
   icon = "running"
   icon_pack = "fas"
-  name = "Distance Running"
+  name = "Running"
   
 
 +++
