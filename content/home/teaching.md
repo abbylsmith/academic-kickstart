@@ -72,4 +72,4 @@ I am passionate about undergraduate teaching and mentorship. I currently serve a
 
 I have served as a teaching assistant for courses both at Carnegie Mellon and Northwestern. During my masters year at CMU, I was a TA for the *Experimental Design* and *Survey, Sampling, and Society* courses and mentored [Elaine Liu](https://www.linkedin.com/in/elaineliu5) for her undergraduate thesis.
 
-At Northwestern, I have served as the TA for STAT 202 (*Introduction to Statistics*), STAT 232 (*Applied Statistics*), and most recently, our Data Science sequence.
+At Northwestern, I have served as the TA for STAT 202 (*Introduction to Statistics*), STAT 232 (*Applied Statistics*), STAT 425/325 (*Survey Sampling*), and our rad Data Science sequence. 
