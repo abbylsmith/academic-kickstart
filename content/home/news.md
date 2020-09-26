@@ -89,6 +89,6 @@ subtitle = ""
 * **March 2019**: Made open source contributions to the `broom` package at the [Chicago R Unconference](https://chirunconf.github.io/).
 
 
+
 </div>
-
-
+&nbsp;
