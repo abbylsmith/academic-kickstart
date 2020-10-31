@@ -67,3 +67,5 @@ email: ""
 I am a fourth-year PhD student in Statistics at [Northwestern](https://www.statistics.northwestern.edu/). Broadly, I am interested in data science for social good applications. I am advised by [Bruce Spencer](https://www.ipr.northwestern.edu/who-we-are/faculty-experts/spencer.html) and currently research the impact of entity resolution on network inferences.
 
 Previously, I was at [Carnegie Mellon](http://www.stat.cmu.edu/), where I worked with the [MIDAS](http://www.stat.cmu.edu/research/group/526#quicktabs-lab_group_quicktabs=0) group on synthetic ecosystems for agent-based models of infectious disease.
+
+Outside of statistics, you can find me sporting a tie dye shirt, going on a long run along Lake Michigan, backpacking with friends, or reading a narrative nonfiction book.
