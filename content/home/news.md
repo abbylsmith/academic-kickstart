@@ -71,6 +71,8 @@ subtitle = ""
 
 <div style="overflow: auto; height:200pt; width:100%;">
 
+* **November 2020**: My poster,  *Evaluating the Impact of Entity Resolution Error on Descriptive Network Metrics*, won third place among PhD students at the New England Statistical Society's [NextGen Data Science Day](https://nestat.org/nextgen/dsd2020/)!
+
 * **September 2020**: Presented my team's project on birth delivery date estimation with [Medic Mobile](https://medicmobile.org) at [DSSG Solve's](https://www.solveforgood.org/) Datafest.
 
 * **March 2020**: Led a team of WiDS Ambassadors to host [Women in Data Science (WiDS): Chicago](https://widschicago.org), a 200+ person conference at Roosevelt University in downtown Chicago.
