@@ -70,6 +70,7 @@ subtitle = ""
 
 
 <div style="overflow: auto; height:200pt; width:100%;">
+* **January 2021**: I was chosen as one of University of Chicago's CDAC inaugural [Rising Stars in Data Science](https://cdac.uchicago.edu/rising-stars/#rising-stars-profiles)!
 
 * **November 2020**: My poster,  *Evaluating the Impact of Entity Resolution Error on Descriptive Network Metrics*, won third place among PhD students at the New England Statistical Society's [NextGen Data Science Day](https://nestat.org/nextgen/dsd2020/)!
 
